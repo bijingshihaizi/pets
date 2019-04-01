@@ -1,0 +1,14 @@
+<widget id="A6009665909588"  version="0.0.1">
+    <name>pets</name>
+    <description>
+        welcome to pets home.
+    </description>
+    <author email="1225448773@qq.com" href="//www.apicloud.com">
+        vnloco
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <preference name="windowBackground" value="#FFF" />
+    <permission name="call" />
+ 
+</widget>
